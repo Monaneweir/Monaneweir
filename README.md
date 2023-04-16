@@ -23,13 +23,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
-
-
-
-
-
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
 
 
 

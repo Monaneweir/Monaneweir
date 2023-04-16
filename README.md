@@ -1,27 +1,11 @@
 
+
+
 ### Hi there 👋, my name is mona
 #### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://images.app.goo.gl/8stCuff7XwqFcm6b7)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
@@ -34,7 +18,15 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Monaneweir )](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/Monaneweir )  
+![GitHub metrics](https://metrics.lecoq.io/Monaneweir )
+  
+
+
+
+
+
+
+
 
 
 

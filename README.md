@@ -4,7 +4,7 @@
 ![I am GitHub Readme Generator's creator](https://images.app.goo.gl/8stCuff7XwqFcm6b7)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 More detail
